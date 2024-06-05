@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.tbody{
+    text-align: justify;
+    color: black;
+    font-size: 120%;
+}
+
+.profile-box{
+   margin-left: 10%;
+}
+.box{
+    width: 600px;
+    background-color: rgba(49, 171, 187, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 3%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+}
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 2%;
+}
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    color: black;
+}
